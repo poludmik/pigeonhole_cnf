@@ -1,0 +1,1 @@
+![Alt text](performance.png?raw=true "Computation time for N holes")
